@@ -1,8 +1,11 @@
 /*
 Question: What are the top-paying Data Scientist jobs?
+
 --> Identify the top 10 highest-paying Data Scientist roles that are available remotely.
 --> Focuses on job postings with specified salaries (remove NULL)
---> Why? To highlight top-paying Data Scientist roles and reveal key job market insights.
+
+WHY?
+To highlight top-paying Data Scientist roles and reveal key job market insights.
 */
 
 SELECT
