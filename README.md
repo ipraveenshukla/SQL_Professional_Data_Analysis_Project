@@ -56,7 +56,7 @@ Here's the breakdown of the top Data Scientist jobs in 2023:
 - **Leadership Premium:** The majority of top-paying roles are senior leadership positions (Head of, Director, Distinguished), indicating that strategic management of data teams and business analytics drives the highest compensation over individual contributor work.
 - **Specialized Recruiters Dominate:** Selby Jennings appears twice in the top 3 positions, suggesting that specialized financial/quantitative recruiting firms may offer access to the most lucrative opportunities, particularly in finance and quant research sectors.
 
-![Top Paying Roles](Assets\1_top_paying_roles.png)
+![Top Paying Roles](Assets/1_top_paying_roles.png)
 *Bar graph visualizing the salary for the top 10 salaries for Data Scientists; The graph below visualizes the salary distribution for the top 10 highest-paying Data Scientist roles.*
 
 ### 2. Skills for Top Paying Jobs
