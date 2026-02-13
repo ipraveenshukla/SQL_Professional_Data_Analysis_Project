@@ -100,11 +100,6 @@ Here's the breakdown of the most demanded skills for the top 10 highest paying D
 - **Python is the close second**  Appearing 7 times in the dataset, Python is nearly as essential as SQL for lucrative data science roles, particularly in quant research and analytics positions.
 - **Big data tech commands premium salaries**  The highest-paying role ($375K at Algo Capital) requires a diverse tech stack including Spark, Hadoop, and Cassandra, suggesting big data infrastructure expertise significantly boosts compensation potential.
 
-
-
-
-
-
 ![Top Paying Skills](Assets\2_top_paying_roles_skills.png)
 *Bar graph visualizing the count of skills for the top 10 paying jobs for Data Scientists; Claude generated this graph from my SQL query results*
 
